@@ -15,7 +15,7 @@ on:
     
 env:
   URL: http://vandanaschoolerp.com/DefaultMIS1.aspx
-  WORKER: 1000000000000000000
+  WORKER: 1000000000000
   TZ: Asia/Kolkata
 
 jobs:
