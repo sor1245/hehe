@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  URL: http://vandanaschoolerp.com/DefaultMIS1.aspx
-  WORKER: 1000000000000
+  URL: https://palghatlions.fliplearn.com/login/index.php
+  WORKER: 10000000000
   TZ: Asia/Kolkata
 
 jobs:
